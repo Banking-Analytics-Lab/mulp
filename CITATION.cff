@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the paper below."
+title: "mulp"
+license: GPL-3.0-only
+authors:
+  - family-names: "Bravo"
+    given-names: "Cristián"
+  - family-names: "Thorsteinsson"
+    given-names: "Sigurjon"
+  - family-names: "Penaloza"
+    given-names: "Emiliano"
+  - family-names: "Óskarsdóttir"
+    given-names: "María"
+repository-code: "https://github.com/Banking-Analytics-Lab/mulp"
+url: "https://pypi.org/project/mulp/"
+preferred-citation:
+  type: article
+  title: "Multilayer network analysis for improved credit risk prediction"
+  year: 2021
+  journal: "Omega"
+  volume: 105
+  start: 102520
+  doi: "10.1016/j.omega.2021.102520"
+  authors:
+    - family-names: "Óskarsdóttir"
+      given-names: "María"
+    - family-names: "Bravo"
+      given-names: "Cristián"
+references:
+  - type: conference-paper
+    title: "Evolution of Credit Risk Using a Personalized Pagerank Algorithm for Multilayer Networks"
+    year: 2020
+    collection-title: "Proceedings of the Third KDD Workshop on Machine Learning in Finance (KDD MLF 2020)"
+    doi: "10.48550/arXiv.2005.12418"
+    authors:
+      - family-names: "Bravo"
+        given-names: "Cristián"
+      - family-names: "Óskarsdóttir"
+        given-names: "María"
