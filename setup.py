@@ -7,7 +7,7 @@ setuptools.setup(
     version="1.1.1",
     author="Cristián Bravo, Sigurjon Thorsteinsson, Emiliano Penaloza, María Óskarsdóttir",
     author_email="cbravoro@uwo.ca",
-    description="Python implementation of the Multilayer Credit Scoring algorithm from Óskarsdóttir & Bravo (2019)",	
+    description="Python implementation of the Multilayer Credit Scoring algorithm from Óskarsdóttir & Bravo (2021)",	
     long_description=long_descripiton,
     long_description_content_type="text/markdown",
     project_urls={
